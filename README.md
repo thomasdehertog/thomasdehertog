@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Hi there, I'm Thomas de Hertog
 
-<!--
-**thomasdehertog/thomasdehertog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Product owner at [KYP](https://kyp.nl) where I'm building enterprise resource management solutions for construction companies.
 
-Here are some ideas to get you started:
+- 🇳🇱 I am from the Netherlands but studied in the US
+- 🎓 I went to College at [Harvard](https://harvard.edu) (Economics)
+- 👨‍💻 Currently building AI workflows and agents using LangGraph and Next.js
+- 🚀 Previously co-founded Howtogrow (60K downloads) and Howtoplay (largest parenting platform in Benelux)
+- 📱 You can find me on [LinkedIn](https://linkedin.com/in/thomasdehertog)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Languages & Technologies:
+JavaScript/TypeScript, React, Next.js, Python, LangGraph, AI Engineering
+
+### Recent Projects:
+- 🤖 **Buckaroo-WooCommerce AI Reconciliation Assistant** - Built with LangGraph, Python, Next.js, and TypeScript
+- 🏗️ **KYP Resource Management** - SaaS planning tool used by 92% of top Dutch construction companies
