@@ -13,4 +13,3 @@ JavaScript/TypeScript, React, Next.js, Python, LangGraph, AI Engineering
 
 ### Recent Projects:
 - 🤖 **Buckaroo-WooCommerce AI Reconciliation Assistant** - Built with LangGraph, Python, Next.js, and TypeScript
-- 🏗️ **KYP Resource Management** - SaaS planning tool used by 92% of top Dutch construction companies
