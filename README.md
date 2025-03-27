@@ -9,7 +9,7 @@ I am Product owner at [KYP](https://kyp.nl) where I'm building enterprise resour
 - 📱 You can find me on [LinkedIn](https://www.linkedin.com/in/thomas-de-hertog-ab445465/)
 
 ### Languages & Technologies:
-JavaScript/TypeScript, React, Next.js, Python, LangGraph, AI Engineering
+JavaScript/TypeScript, React, Next.js,LangGraph, AI Engineering
 
 ### Recent Projects:
 - 🤖 **Buckaroo-WooCommerce AI Reconciliation Assistant** - Built with LangGraph, Python, Next.js, and TypeScript
