@@ -3,7 +3,7 @@
 I am Product owner at [KYP](https://kyp.nl) where I'm building enterprise resource management solutions for construction companies.
 
 - 🇳🇱 I am from the Netherlands but studied in the US
-- 🎓 I went to College at [Harvard](https://harvard.edu) (Economics)
+- 🎓 I went to College at [Harvard](https://harvard.edu) 
 - 👨‍💻 Currently building AI workflows and agents using LangGraph and Next.js
 - 🚀 Previously co-founded Howtogrow (60K downloads) and Howtoplay (largest parenting platform in Benelux)
 - 📱 You can find me on [LinkedIn](https://www.linkedin.com/in/thomas-de-hertog-ab445465/)
